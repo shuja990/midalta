@@ -21,7 +21,7 @@ class Services3 extends Component {
                 
                 <AboutContent />
                 {/* <TeamMemberContent /> */}
-                <FaqContent />
+                {/* <FaqContent /> */}
                 <FeaturesStyleTwo />
                 {/* <ClientsFeedbackSliderTwo /> */}
                 

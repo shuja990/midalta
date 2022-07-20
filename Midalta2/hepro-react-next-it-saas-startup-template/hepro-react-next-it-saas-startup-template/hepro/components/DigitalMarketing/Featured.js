@@ -26,7 +26,7 @@ export default class Featured extends Component {
                     with frameworks and strategies that drive rapid growth and
                     maximize messaging potential.
                   </p>
-                  <Link href="/service-details">
+                  <Link href="/strategy">
                     <div>
                       <a
                         className="read-more-btn"
@@ -37,7 +37,7 @@ export default class Featured extends Component {
                     </div>
                   </Link>
 
-                  <Link href="/service-details">
+                  <Link href="/strategy">
                     <a className="link-btn"></a>
                   </Link>
                 </div>
@@ -83,13 +83,13 @@ export default class Featured extends Component {
                     blends design, engineering, and analytics expertise to help
                     you build the future for your business.
                   </p>
-                  <Link href="/service-details">
+                  <Link href="/technology">
                     <a className="read-more-btn">
                       Read More <i className="bx bx-right-arrow-alt"></i>
                     </a>
                   </Link>
 
-                  <Link href="/service-details">
+                  <Link href="/technology">
                     <a className="link-btn"></a>
                   </Link>
                 </div>
@@ -115,13 +115,13 @@ export default class Featured extends Component {
                     Regardless of how fast business moves, we are committed and
                     specialize in working through change with you.{" "}
                   </p>
-                  <Link href="/service-details">
+                  <Link href="/transformation">
                     <a className="read-more-btn">
                       Read More <i className="bx bx-right-arrow-alt"></i>
                     </a>
                   </Link>
 
-                  <Link href="/service-details">
+                  <Link href="/transformation">
                     <a className="link-btn"></a>
                   </Link>
                 </div>

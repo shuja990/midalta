@@ -5,7 +5,7 @@ class AboutContent extends Component {
     return (
       <section className="about-area ptb-100">
         <div className="container">
-          <div className="row align-items-center">
+          <div className="row">
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
                 <p>
@@ -23,6 +23,16 @@ class AboutContent extends Component {
                 We attract the best in the business. People from enterprises,
                 consultancies, agencies, and startups—are all drawn to building
                 a career that's both exciting and sustainable.
+                <p>INCLUSION AND DIVERSITY</p>
+              <h4>
+                We're committed to creating a safe, diverse, and inclusive work
+                environment.
+              </h4>
+              <p>
+                This means we strive at all times to encourage open
+                conversation, hire diverse talent, and continually listen and
+                learn from one another.
+              </p>
               </div>
             </div>
 

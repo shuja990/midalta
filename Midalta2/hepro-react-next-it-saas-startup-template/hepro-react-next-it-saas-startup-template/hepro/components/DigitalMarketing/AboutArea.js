@@ -7,7 +7,7 @@ export default class AboutArea extends Component {
         <div className="container">
           <div className="section-title text-left">
             <span className="sub-title">About Us</span>
-            <h2>We Are A Strategic Digital Marketing Agency</h2>
+            <h2>We offer Strategic Digital Marketing Solutions</h2>
           </div>
         </div>
 

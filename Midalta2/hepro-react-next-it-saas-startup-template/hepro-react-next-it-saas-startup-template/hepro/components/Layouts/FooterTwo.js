@@ -75,7 +75,7 @@ class Footer extends Component {
                                     <li>Email: <span>info@midalta.com</span></li>
                                     <li>Phone: <span>855-Midalta</span></li>
                                 </ul>
-                                <ul className="social">
+                                {/* <ul className="social">
                                 <li>
                                         <Link  href="#">
                                             <a href="https://www.linkedin.com/company/midalta-innovations/" target="_blank">
@@ -105,7 +105,7 @@ class Footer extends Component {
                                         </Link>
                                     </li>
                                     
-                                </ul>
+                                </ul> */}
                             </div>
                         </div>
                     </div>

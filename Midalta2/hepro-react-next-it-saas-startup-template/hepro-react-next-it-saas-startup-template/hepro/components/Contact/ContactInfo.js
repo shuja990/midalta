@@ -13,7 +13,7 @@ class ContactInfo extends Component {
                     <span className="or">OR</span>
                     <span className="email">info@midalta.com</span>
                 </h2>
-
+{/* 
                 <ul className="social">
                     <li>
                         <Link href="#">
@@ -36,7 +36,7 @@ class ContactInfo extends Component {
                             <a  href="https://www.instagram.com/midaltainnovation/" target="_blank"><i className="bx bxl-instagram"></i></a>
                         </Link>
                     </li>
-                </ul>
+                </ul> */}
             </div>
         </div>
         );

@@ -14,19 +14,28 @@ class MainBanner extends Component {
                     <div className="d-table-cell">
                       <div className="content">
                         <h1>It’s about growth.</h1>
-                        
+
                         <p>
-                        Our team leads with strategy and innovation always at the forefront.<br/>
-                        We aim to find new ways for you and your teams to grow, scale your investments, empower innovation, drive effective advocacy, ensuring that you have the best opportunity to enhance your presence and rise above the clutter.
-                          <br />
-                          With ten years of professional experience, we are proud to have been instrumental in helping both Private and Government Clients redefine and reinvent their processes, reach their target audience and deliver their message.
-                          <br />
-                          With ten years of professional experience, we have
-                          proudly encouraged both Private and Government to
-                          become better either through the creation process or
-                          the privilege of reinvention.
-                          <br />
-                          With us, no matter where you are in your journey, we’ll partner with you to provide the expertise and practical plans you need to successfully navigate the now and move your business forward. 
+                          <p>
+                            Our team leads with strategy and innovation always
+                            at the forefront.
+                          </p>
+                          <p>
+                            {" "}
+                            We aim to find new ways for you and your teams to
+                            grow, scale your investments, empower innovation,
+                            drive effective advocacy, ensuring that you have the
+                            best opportunity to enhance your presence and rise
+                            above the clutter.
+                          </p>
+                          <p>
+                            {" "}
+                            With ten years of professional experience, we are
+                            proud to have been instrumental in helping both
+                            Private and Government Clients redefine and reinvent
+                            their processes, reach their target audience and
+                            deliver their message.
+                          </p>
                         </p>
 
                         <Link href="/contact">

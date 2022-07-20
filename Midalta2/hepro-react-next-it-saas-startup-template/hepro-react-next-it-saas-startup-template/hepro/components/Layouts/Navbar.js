@@ -109,7 +109,7 @@ class Navbar extends Component {
                                     </ul>
                                 </div>
 
-                                <div className="others-options ms-auto">
+                                <div className=" ms-auto">
                                     <Link href="/login">
                                         <a className="optional-btn">
                                             <i className="bx bx-log-in"></i> Log In <span></span>

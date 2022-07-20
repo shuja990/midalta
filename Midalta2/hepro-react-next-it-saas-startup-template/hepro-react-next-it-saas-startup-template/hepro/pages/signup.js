@@ -6,9 +6,9 @@ class Signup extends Component {
     return (
       <section className="signup-area">
         <div className="row m-0">
-          <div className="col-lg-6 col-md-12 p-0">
-            <div className="signup-image">
-              <img src="../public/images/login-bg.png" alt="image" />
+        <div className="col-lg-6 col-md-12 p-0">
+            <div className="login-image">
+              <img src="/images/login.png" alt="image" />
             </div>
           </div>
 
@@ -27,7 +27,7 @@ class Signup extends Component {
                       </a>
                     </div>
 
-                    <h3>Open up your Strax Account now</h3>
+                    <h3>Open up your Account now</h3>
                     <p>
                       Already signed up?{" "}
                       <Link href="/login">
